@@ -17,11 +17,7 @@
     "react",
     "barcode",
     "webpack"
-  ],
-  "author": "Eric Blade <blade.eric@gmail.com>",
-  "contributors": [
-    "Christoph Oberhofer <ch.oberhofer@gmail.com>"
-  ],
+  ], 
   "license": "MIT",
   "dependencies": {
     "@ericblade/quagga2": "^1.0.6",

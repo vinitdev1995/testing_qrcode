@@ -4,8 +4,7 @@
   "scripts": {
     "start": "npx webpack-dev-server -d --hot --port=3005",
     "build": "npm install && npx webpack",
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "eject": "react-scripts eject"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
     "quaggajs",
